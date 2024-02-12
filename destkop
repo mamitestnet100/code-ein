@@ -1,0 +1,13 @@
+# main.py
+
+def main():
+    # Kullanıcıdan adını al
+    ad = input("Adınızı girin: ")
+
+    # Kullanıcıya selam ver
+    print(f"Merhaba, {ad}!")
+
+if __name__ == "__main__":
+    main()
+
+      
